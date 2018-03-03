@@ -1,4 +1,4 @@
-# Firebase-Heroku Deploy Error Solved  :four: :zero: :four:
+# Firebase-Heroku Deploy Error Solved   :four::zero::four:
 
 ## FIREBASE FATAL ERROR: Can't determine Firebase Database URL
 
@@ -31,8 +31,10 @@
 
 ---
 
+### Initially Posted 3/3/2018
+
+### License -  MIT
+
 ### Author
 
 * **Steve Walker**  | [LinkedIn](https://www.linkedin.com/in/stevelwalker/)
-
-### License -  MIT
